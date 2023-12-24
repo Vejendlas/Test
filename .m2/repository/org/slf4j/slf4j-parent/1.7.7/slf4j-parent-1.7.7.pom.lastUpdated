@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 22 07:07:02 UTC 2023
+https\://maven.vaadin.com/vaadin-prereleases/.error=
+http\://0.0.0.0/.error=Could not transfer artifact org.slf4j\:slf4j-parent\:pom\:1.7.7 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [vaadin-addons (http\://maven.vaadin.com/vaadin-addons, default, releases+snapshots), vaadin-snapshots (http\://oss.sonatype.org/content/repositories/vaadin-snapshots/, default, releases+snapshots)]
+https\://repo.maven.apache.org/maven2/.lastUpdated=1703228822630
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1703228822625
+https\://maven.vaadin.com/vaadin-prereleases/.lastUpdated=1703228822622

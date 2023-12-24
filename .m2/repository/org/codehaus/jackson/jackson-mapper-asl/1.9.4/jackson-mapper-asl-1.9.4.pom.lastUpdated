@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 22 07:07:02 UTC 2023
+https\://maven.vaadin.com/vaadin-prereleases/.error=
+http\://0.0.0.0/.error=Could not transfer artifact org.codehaus.jackson\:jackson-mapper-asl\:pom\:1.9.4 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [vaadin-addons (http\://maven.vaadin.com/vaadin-addons, default, releases+snapshots), vaadin-snapshots (http\://oss.sonatype.org/content/repositories/vaadin-snapshots/, default, releases+snapshots)]
+https\://repo.maven.apache.org/maven2/.lastUpdated=1703228822855
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1703228822847
+https\://maven.vaadin.com/vaadin-prereleases/.lastUpdated=1703228822846
